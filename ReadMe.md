@@ -12,8 +12,12 @@ En tant que ISTP (Introverti, Sensation, Pensée, Perception), je suis logique, 
 J'apprécie les projets nécessitant des compétences techniques et une réflexion stratégique.
 Je m'épanouis dans des environnements où je peux travailler de manière autonome tout en apportant des solutions concrètes et tangibles.
 Je me considère beaucoup plus comme un développeur backend, puisque je ne suis pas bon en masturbation visuel
+## ⭐ Favoris
+Je me spécialise dans Lua, Kotlin et Rust, des langages que j’apprécie particulièrement pour leur efficacité et leur flexibilité dans le développement de solutions complexes. J’utilise intensivement UML et Git pour structurer et gérer mes projets. Ces outils me permettent de maintenir une organisation rigoureuse et de faciliter la collaboration en équipe.
 # 🌌 Mes rêves
-J'ai d'abord rêvé de devenir astrophysicien, puis psychiatre, mais mon véritable rêve est de concevoir un système d'exploitation, un moteur de jeu 🎮 ou même un langage de programmation, le tout de A à Z. Je ne recule jamais devant l’échec et je considère chaque défi comme une opportunité d'apprentissage et de croissance.
+J'ai d'abord rêvé de devenir astrophysicien, puis psychiatre, mais mon véritable rêve est de concevoir un système d'exploitation, un moteur de jeu 🎮 ou même un langage de programmation, le tout de A à Z. Je ne recule jamais devant l’échec et je considère chaque défi comme une opportunité d'apprentissage et de croissance. Je compte m'orienter vers le DevOps qui semble un défi plus grand.
+# 🎯 Objectifs Professionnels
+En tant que développeur, je suis très minutieux. J’évite les abréviations dans mon code, préférant taper les noms de variables en entier pour assurer une meilleure lisibilité et maintenir une approche orientée objet, même dans mes projets sous Garry's Mod. Je suis un adepte de l’encapsulation et des contrôleurs, ce qui m'amène à privilégier des architectures modulaires et bien structurées. Bien que la majorité de mes projets soient sous licence propriétaire, je développe régulièrement des frameworks, car je souhaite contribuer davantage à l'open source. Une partie de ces frameworks sera publiée prochainement sous licence libre.
 
 ## 🌐 Réseaux Sociaux:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/finnwinch) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Finnwinch) 
