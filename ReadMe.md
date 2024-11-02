@@ -1,8 +1,7 @@
 # 💫 Présentation
 Je suis un jeune Québécois passionné par la programmation depuis l'âge de 12 ans.
-J'ai appris Lua et Java pour créer des mods dans des jeux vidéo tels que Minecraft et Garry’s Mod.
 # 🚀Expérience Précoce
-J'ai rapidement pris plaisir à concevoir, optimiser et révolutionner des mods. J'ai passé des nuits blanches 🌙 à apprendre ces langages et à étudier les algorithmes. Mon travail acharné m'a permis de me démarquer, d'obtenir de petits contrats et de gérer des projets communautaires.
+J'ai rapidement pris plaisir à concevoir, optimiser et révolutionner des mods à mon plus jeune âge. J'ai passé des nuits blanches 🌙 à apprendre la programmation et à étudier des algorithmes. Mon travail acharné m'a permis de me démarquer, d'obtenir de petits contrats et de gérer des projets communautaires sur des serveurs de jeux.
 # 🔌 Découverte de l'Arduino
 En secondaire 4, j'ai découvert l'Arduino et j'ai adoré réaliser de petits projets. Mon premier projet était un arbre de Noël 🎄 que j'ai fièrement montré à ma famille. Cette expérience m'a convaincu de devenir programmeur et concepteur.
 # 🧑‍🎓 Parcours au Cégep
